@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on building a portfolio of JS projects<br>I'm looking to collaborate on full-stack E-commerce related projects<br>Five years of experience with Adobe Photoshop, Premiere pro & After effects<br>I'm currently learning JS & PHP<br>Ask me about Anime<br>Fun fact - I am a model
+I'm currently working on improving my JS skills by building projects<br>I'm looking to collaborate on full-stack E-commerce related projects<br>5 years of experience with Adobe Photoshop, Premiere pro & After effects<br>I'm currently learning JS & PHP<br>Ask me about Apis<br>Fun fact - I love anime!
 
 
 ## 🌐 Socials:
